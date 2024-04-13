@@ -1,8 +1,2 @@
-#Project 3: Opponent Avoidance Problem
-Created by Andres Perez, Andrew Gonzalez, Desire Hernandez & Paul Le
-
-##Description
-This project tests two algorithms which accomplish the same goal. The objective is to measure the runtime of both algorithms and examine how they match up to our expected time complexities.
-
-##How to run
-
+# Algo-Group-6
+Repository for working on homework and working simultaneously
